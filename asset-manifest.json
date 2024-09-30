@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/vacu/static/css/main.0fd05efc.css",
+    "main.js": "/vacu/static/js/main.b7c4936d.js",
+    "static/js/453.53a90f21.chunk.js": "/vacu/static/js/453.53a90f21.chunk.js",
+    "static/media/logo.svg": "/vacu/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/vacu/index.html",
+    "main.0fd05efc.css.map": "/vacu/static/css/main.0fd05efc.css.map",
+    "main.b7c4936d.js.map": "/vacu/static/js/main.b7c4936d.js.map",
+    "453.53a90f21.chunk.js.map": "/vacu/static/js/453.53a90f21.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0fd05efc.css",
+    "static/js/main.b7c4936d.js"
+  ]
+}
